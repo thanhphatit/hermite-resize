@@ -1,7 +1,4 @@
-/*
- * Hermite resize - fast image resize/resample using Hermite filter.
- * https://github.com/viliusle/Hermite-resize
- */
+
 function Hermite_class() {
 	var cores;
 	var workers_archive = [];
